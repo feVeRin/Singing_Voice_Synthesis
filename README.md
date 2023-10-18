@@ -5,5 +5,5 @@ In this project, we apply Neural Architecture Search (NAS) to design an lightwei
 
 ## Members
 * [Sang-Hyeong Jin](https://github.com/feVeRin)
-* So-Jeong Kim 
-* Da-Hyun Song 
+* [So-Jeong Kim](https://github.com/ssoojeong)
+* [Da-Hyun Song](https://github.com/dahyunnss) 
