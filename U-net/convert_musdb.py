@@ -2,11 +2,11 @@
 
 #- __Track.name__ :  the track name, consisting of Track.artist and Track.title.
 #- __Track.path__ : the absolute path of the mixture which might be handy to process with external applications.
-#- __Track.audio__ : stereo mixture as an numpy array of shape (nb_samples, 2).
+#- __Track.audio__ : stereo mixture as an numpy array of shape (nb_samples, 2)
 #- __Track.rate__ : the sample rate of the mixture.
 #- __Track.sources__ : a dictionary of sources used for this track.
 #- __Track.stems__ : an numpy tensor of all five stereo sources of shape (5, nb_samples, 2). The stems are always in the following order: ['mixture', 'drums', 'bass', 'other', 'vocals'],
-#- __Track.targets__ : a dictionary of targets provided for this track.  ('mixture', 'drums', 'bass', 'other', 'vocals', 'accompaniment', 'linear_mixture')
+#- __Track.targets__ : a dictionary of targets provided for this track. ('mixture', 'drums', 'bass', 'other', 'vocals', 'accompaniment', 'linear_mixture')
 
 import os
 import subprocess
