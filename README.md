@@ -1,7 +1,7 @@
 # Singing Voice Synthesis based on Diffusion Model
 
 ## Goal
-In this project, we apply Neural Architecture Search (NAS) to design an lightweight singing voice synthesis neural network while maintaining the synthesis quality of the diffusion model.
+In this project, we design an lightweight singing voice synthesis model while maintaining the synthesis quality of the diffusion model.
 
 ## Data
 The dataset used for this project can be found in the following directory:
